@@ -36,7 +36,7 @@ Created by [EVL44](https://github.com/EVL44) & [hlnajz](https://github.com/hlnaj
 3. Start chatting and let it flow 🌊.
 
 🟢 **Available 24/7**  
-🔗 *Soon to be integrated with Telegram, Messenger, and Web chat.*
+🔗 *Soon to be integrated with Telegram, Messenger*
 
 ---
 
