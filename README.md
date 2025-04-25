@@ -1,6 +1,6 @@
 # 🤖 NORA – Your Moroccan AI Therapist 🌿
 
-![NORA BOT](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzV5MTR0d3BsbnhjMnoydXNkNndxdWpkMm5jcnlyNzZvZjN4aXd5aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif)
+![NORA BOT](https://github.com/hlnajz/assets/blob/main/NORA.png)
 
 **NORA** is an intelligent, multilingual chatbot therapist with a Moroccan heart.  
 Created by [EVL44](https://github.com/EVL44) & [hlnajz](https://github.com/hlnajz), NORA listens, supports, and guides users through emotional ups and downs — anytime, anywhere, straight from **WhatsApp**.
